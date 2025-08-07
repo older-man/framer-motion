@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@theme {
+  /* font-family */
+	--font-poppins: Poppins, sans-serif;
+  /* container */
+	--container-default: 1rem;
+	--container-sm: 2rem;
+	--container-lg: 4rem;
+	--container-xl: 5rem;
+	--container-2xl: 6rem;
+}
