@@ -1,7 +1,9 @@
-import type { FC } from "react";
+import Hero from "@/components/Hero";
 
-const App:FC = () => {
-  return ( <div className="bg-amber-100 text-amber-900">main app</div> );
+const App = () => {
+  return ( <main className="overflow-x-hidden">
+    <Hero></Hero>
+  </main> );
 }
  
 export default App;

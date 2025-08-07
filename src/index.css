@@ -10,3 +10,19 @@
 	--container-xl: 5rem;
 	--container-2xl: 6rem;
 }
+
+.container{
+	padding:1rem;
+}
+.container-sm{
+	padding:2rem;
+}
+.container-lg{
+	padding:4rem;
+}
+.container-xl{
+	padding:5rem;
+}
+.container-2xl{
+	padding:6rem;
+}
