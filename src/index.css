@@ -11,18 +11,7 @@
 	--container-2xl: 6rem;
 }
 
-.container{
-	padding:1rem;
-}
-.container-sm{
-	padding:2rem;
-}
-.container-lg{
-	padding:4rem;
-}
-.container-xl{
-	padding:5rem;
-}
-.container-2xl{
-	padding:6rem;
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
 }
